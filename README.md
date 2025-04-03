@@ -7,8 +7,6 @@ Empowering students and professionals with interactive courses & expert-led tuto
 ## 🛠 Tech Stack:
 - Frontend: React, Tailwind CSS     
 
-## 🎯 Our Mission:
-// To make education accessible, engaging, and effective for learners of all backgrounds.  
 
 ## 📢 Join Us Today!  
 🚀 Start Learning: [Visit Our Website](https://onlineeducation-cource.netlify.app/)  
